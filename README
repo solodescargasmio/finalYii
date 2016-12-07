@@ -2,9 +2,13 @@ Esta aplicacion fue diseñada para registrar datos sobre estudios (cualquiera se
 
 La siguiente fue desarrollada utilizando el framework gratuito Yii de php.
 Como creador del codigo no me hago responsable de la forma que se utiliza esta aplicacion.
-Ésta puede ser utilizada de forma gratuita, estando prohibida su comercializacion.
+Ésta puede ser utilizada y modificada de forma libre y gratuita, estando prohibida su comercializacion o
+comercializacion de cualquier modificacion, siendo ésta desarrollada por terceros, utilizando como base esta aplicación.
 La unica condición (o pedido) es que al utilizarla no se modifique el footer en la parte donde se detalla el link (enlace) 
 a la página del framework Yii.
 
-Para saber su funcionamiento, dentro de finalYii/
+Para saber su funcionamiento, dentro de finalYii/phfinal/images, existe un archivo pdf llamado Manual.pdf, en este
+se especifica el funcionamiento de la aplicacion.
+Cualquier duda, consulten.
+
 
