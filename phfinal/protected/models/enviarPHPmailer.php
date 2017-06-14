@@ -22,15 +22,15 @@ var_dump('otra ves dentro');
 $mail->isSMTP();
 $mail->Host = "smtp.gmail.com";
 $mail->SMTPAuth = true;
-$mail->Username = "solodescargasmio@gmail.com";
-$mail->Password = "noespico123";
+$mail->Username = "tugmail@gmail.com";
+$mail->Password = "tu passs";
 $mail->SMTPSecure = 'tls';
-$mail->From       = "el_eche30@hotmail.com";
+$mail->From       = "correo destino@hotmail.com";
 $mail->FromName   = 'Sistema de gestion de
 Estudios Medicos 
 Heterogeneos'; 
 
-$mail->addAddress("el_eche30@hotmail.com", "Yo" ."  El");
+$mail->addAddress("correo destino@hotmail.com", "Yo" ."  El");
 $mail->WordWrap   = 50;
 $mail->isHTML(true);
 $mail->Subject= "Probar envio";    
